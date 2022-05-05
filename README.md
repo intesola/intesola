@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @intesola
+- 👀 I’m interested in typescript/javascript
